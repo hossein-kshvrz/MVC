@@ -64,8 +64,14 @@ public class Course implements Model {
     }
 
     public float getAverage() {
-        // TODO: Calculate and return the average of the points
-        return 0;
+        if (grades.size() == 0) {
+            return 0;
+        }
+        float sum = 0;
+        for (int i = 0; i < grades.size(); i++) {
+            sum += grades.get(i);
+        }
+        return sum / grades.size();
     }
 
     public String getStudents() {
