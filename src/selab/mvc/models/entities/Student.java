@@ -2,11 +2,14 @@ package selab.mvc.models.entities;
 
 import selab.mvc.models.Model;
 
+import java.util.ArrayList;
 import java.util.regex.Pattern;
 
 public class Student implements Model {
     private String name;
     private String studentNo;
+    private ArrayList<Course> courses = new ArrayList<>();
+    private ArrayList<Float> grades = new ArrayList<>();
 
     @Override
     public String getPrimaryKey() {
@@ -42,5 +45,13 @@ public class Student implements Model {
     private boolean validateStudentNo(String studentNo) {
         Pattern pattern = Pattern.compile("^[8-9]\\d{7}$");
         return pattern.matcher(studentNo).find();
+    }
+
+    public void addCourse(Course course) {
+        this.courses.add(course);
+    }
+
+    public void addGrade(float point) {
+        this.grades.add(point);
     }
 }

@@ -1,8 +1,9 @@
 package selab.mvc.models.entities;
 
 import selab.mvc.models.Model;
-import sun.misc.Regexp;
+//import sun.misc.Regexp;
 
+import java.util.ArrayList;
 import java.util.regex.Pattern;
 
 public class Course implements Model {
@@ -11,6 +12,8 @@ public class Course implements Model {
     private String startTime = null;
     private String endTime = null;
     private Weekday weekday;
+    ArrayList<Student> students = new ArrayList<>();
+    ArrayList<Float> grades = new ArrayList<>();
 
 
     @Override
@@ -108,5 +111,13 @@ public class Course implements Model {
             return 0;
         else
             return -1;
+    }
+
+    public void addStudent(Student student) {
+        this.students.add(student);
+    }
+
+    public void addGrade(float point) {
+        this.grades.add(point);
     }
 }
