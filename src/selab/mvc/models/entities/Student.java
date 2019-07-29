@@ -33,9 +33,13 @@ public class Student implements Model {
     }
 
     public String getCourses() {
-        // TODO: Return a comma separated list of course names
-        return "-";
+        String crs = "";
+        for (int i = 0; i < courses.size(); i++) {
+            crs += courses.get(i).getCourseNo() + ", ";
+        }
+        return crs;
     }
+
 
     /**
      *

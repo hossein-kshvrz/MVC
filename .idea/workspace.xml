@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60fbe5e4-08f2-455b-a054-651e6f353073" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_20180813.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/json_20180813.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/META-INF/MVC.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/AddStudentToCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/AddStudentToCourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/AddCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/AddCourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/CourseListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/CourseListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/AddStudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/AddStudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/StudentListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/StudentListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Weekday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Weekday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/JsonView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/JsonView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/PlainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/PlainView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/StaticHtmlView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/StaticHtmlView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/AddCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/AddCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/CourseListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/CourseListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/RemoveCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/courses/RemoveCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/students/AddStudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/students/AddStudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/students/RemoveStudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/students/RemoveStudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/students/StudentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/students/StudentListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/DataContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/DataContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/DataSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/Model.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Weekday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Weekday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/views/JsonView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/views/JsonView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/views/PlainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/views/PlainView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/views/StaticHtmlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/views/StaticHtmlView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/views/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/views/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="541">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+            <state relative-caret-position="630">
+              <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3537#3538#0" expanded="true" />
@@ -139,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="888">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="544">
+              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1407#1408#0" expanded="true" />
@@ -246,8 +197,8 @@
         <option value="$PROJECT_DIR$/static/index.html" />
         <option value="$PROJECT_DIR$/src/selab/mvc/models/DataContext.java" />
         <option value="$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java" />
-        <option value="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" />
         <option value="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" />
+        <option value="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" />
       </list>
     </option>
   </component>
@@ -398,12 +349,12 @@
       <workItem from="1555097323800" duration="26893000" />
       <workItem from="1555239787541" duration="339000" />
       <workItem from="1564393543781" duration="901000" />
-      <workItem from="1564399727162" duration="1908000" />
+      <workItem from="1564399727162" duration="2253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30041000" />
+    <option name="totallyTimeSpent" value="30386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3840" height="1991" extended-state="6" />
@@ -414,16 +365,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1761727" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1761727" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32985508" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32811594" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32811594" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32985508" />
@@ -723,24 +674,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="541">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1407#1408#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1488#1489#0" expanded="true" />
-            <element signature="e#1507#1508#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+        <state relative-caret-position="630">
+          <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3537#3538#0" expanded="true" />
@@ -751,12 +698,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java">
+    <entry file="file://$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="544">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
           </folding>
         </state>
       </provider>

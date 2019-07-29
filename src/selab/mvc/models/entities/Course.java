@@ -69,9 +69,15 @@ public class Course implements Model {
     }
 
     public String getStudents() {
-        // TODO: Return a comma separated list of student names
-        return "-";
+        String stds = "";
+
+        for (int i = 0; i < students.size(); i++) {
+            stds += students.get(i).getName();
+            stds +=  ", ";
+        }
+        return stds;
     }
+
 
     /**
      *
