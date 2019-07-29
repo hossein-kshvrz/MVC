@@ -11,6 +11,7 @@ import selab.mvc.views.View;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -30,9 +31,23 @@ public class RemoveCourseController extends Controller {
         JSONObject input = readJson(body);
         String courseNo = input.getString("courseNo");
 
-        // TODO: Add codes for removing the course
+        Course course = courses.get(courseNo);
+        ArrayList<Student> students = course.getStudentsArray();
+        for (Student c :
+                students) {
+            for (int i = 0; i < c.courses.size(); i++) {
+                if (c.courses.get(i).getCourseNo().equals(courseNo)) {
+                    c.getGrades().remove(i);
+                    break;
+                }
+            }
+            c.courses.remove(course);
+        }
+        courses.remove(courseNo);
 
-        return null;
+        Map<String, String> result = new HashMap<>();
+        result.put("success", "true");
+        return new JsonView(new JSONObject(result));
     }
 
     @Override

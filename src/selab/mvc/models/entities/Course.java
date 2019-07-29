@@ -63,6 +63,14 @@ public class Course implements Model {
         return this.weekday.name();
     }
 
+    public ArrayList<Float> getGrades() {
+        return grades;
+    }
+//
+    public ArrayList<Student> getStudentsArray() {
+        return students;
+    }
+
     public float getAverage() {
         if (grades.size() == 0) {
             return 0;

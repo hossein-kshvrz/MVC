@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class Student implements Model {
     private String name;
     private String studentNo;
-    private ArrayList<Course> courses = new ArrayList<>();
+    public ArrayList<Course> courses = new ArrayList<>();
     private ArrayList<Float> grades = new ArrayList<>();
 
     @Override
@@ -26,6 +26,10 @@ public class Student implements Model {
         this.studentNo = value;
     }
     public String getStudentNo() { return this.studentNo; }
+
+    public ArrayList<Float> getGrades() {
+        return grades;
+    }
 
     public float getAverage() {
         if (grades.size() == 0) {
