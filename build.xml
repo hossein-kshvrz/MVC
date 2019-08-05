@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="MVC" basedir=".">
+    <path id="somthing"> <!-- Use it for classpath -->
+    </path>
+    <target name="compile">
+        <javac srcdir="./src" destdir="./out"/>
+    </target>
+</project>
